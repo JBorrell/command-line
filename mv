@@ -1,0 +1,2 @@
+The 'mv' command allows the user to move a specific file to a target location using the format mv <filename> <location>
+If location is not a directory, 'mv' command will change the file name to the specified 'location'
