@@ -1,0 +1,7 @@
+'wc' command shows the word count for an indicated amount of text
+Multiple functions include
+ -l : line count
+ -c : byte count
+ -m : character count
+ -L : length of longest line
+ -w : word count ( wc -w <filename>)
